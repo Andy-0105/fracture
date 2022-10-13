@@ -1,0 +1,5 @@
+Average_iou:0.06942666666666666
+Average_dice:0.11903111111111109
+Average_diceloss:0.880968888888889
+Average_recall:0.10422
+Average_precision:0.30145111111111106
